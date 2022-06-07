@@ -18,17 +18,14 @@
 
   
   ---
-  
 
   <br>
  
 </div>
-<div>
-<a href="https://github.com/gudwnsgur/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gudwnsgur" alt="Anurag&#39;s GitHub stats"></a>
-  
- <a href="https://solved.ac/gudwnsgur"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwnsgur"/></a>
 
-</div>
+|||
+| - | - |
+|<a href="https://github.com/gudwnsgur/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gudwnsgur" alt="Anurag&#39;s GitHub stats"></a>|<a href="https://solved.ac/gudwnsgur"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwnsgur"/></a>|
 
 <!--
 **gudwnsgur/gudwnsgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
