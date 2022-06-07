@@ -1,6 +1,6 @@
 <div align="center">
- <a href="https://solved.ac/gudwnsgur"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwnsgur"/></a>
-  
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudwnsgur&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=7"/>
+ 
   ### 🌱 형준혁 ☘️ 
   
   🍎 Tistory Blog 🍎 https://gudwnsgur.tistory.com
@@ -26,7 +26,8 @@
 <div>
 <a href="https://github.com/gudwnsgur/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gudwnsgur" alt="Anurag&#39;s GitHub stats"></a>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudwnsgur&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=7"/>
+ <a href="https://solved.ac/gudwnsgur"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwnsgur"/></a>
+
 </div>
 
 <!--
